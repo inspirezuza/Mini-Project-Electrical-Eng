@@ -1,0 +1,22 @@
+Group_5,6_Student_List
+Has_6_students
+6510500973  5 Nakorn BO            33.70 34.28 26.32 22.52 
+6510501007  5 Nattanon WA          34.10 31.76 24.96 25.48 
+6510501082  5 Thanawat KITP        34.40 29.25 25.92 28.43 
+6510501091  6 Thanat PAN           34.70 29.05 24.56 31.38 
+6510501147  6 Thitipong SIN        35.00 36.54 25.53 22.02 
+6510501180  6 Nanthanat W          35.40 34.02 24.17 24.97 
+
+Group_5,6_Team
+Nakorn BO            6510500973 Group   5: Back, 33.70 s
+Thanat PAN           6510501091 Group   6: Breast, 29.05 s
+Nanthanat W          6510501180 Group   6: Fly, 24.17 s
+Thitipong SIN        6510501147 Group   6: Free, 22.02 s
+Total time: 33.70 + 29.05 + 24.17 + 22.02 = 108.94
+
+All_Group_Team
+Phasit KU            6510501295 Group   7: Back, 26.00 s
+Sasikarn PRA         6210552340 Group  10: Breast, 28.14 s
+Nawaphol T           6510550890 Group  15: Fly, 24.05 s
+Muthita MO           6510551021 Group  17: Free, 22.05 s
+Total time: 26.00 + 28.14 + 24.05 + 22.05 = 100.24
