@@ -1,4 +1,4 @@
-"# Mini-Project-Electrical-Eng" 
+# Mini-Project-Electrical-Eng 
 
 Assignment for mini-project sem 1/2023 2
 
